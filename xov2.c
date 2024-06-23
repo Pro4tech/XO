@@ -46,9 +46,9 @@ int main(){
 
 
                 }
-/*                if(win=='x' || win=='o')
+              if(win=='x' || win=='o')
                 break;
-*/
+
 
                 if(xo[0][0]=='x' && xo[1][1]=='x' && xo[2][2]=='x'){
                         win='x';
